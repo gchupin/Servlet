@@ -1,0 +1,128 @@
+15-Oct-2018 10:38:10.073 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+15-Oct-2018 10:38:10.094 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+15-Oct-2018 10:38:10.094 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+15-Oct-2018 10:38:10.094 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+15-Oct-2018 10:38:10.094 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.9.0-8-amd64
+15-Oct-2018 10:38:10.094 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Oct-2018 10:38:10.094 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/oracle-java8-jdk-amd64/jre
+15-Oct-2018 10:38:10.094 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_162-b12
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/net/cremi/gchupin/espaces/travail/M2/Programmation_Web/apache-tomcat-8.5.34/conf/logging.properties
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+15-Oct-2018 10:38:10.095 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/net/cremi/gchupin/espaces/travail/M2/Programmation_Web/apache-tomcat-8.5.34
+15-Oct-2018 10:38:10.096 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/net/cremi/gchupin/espaces/travail/M2/Programmation_Web/apache-tomcat-8.5.34
+15-Oct-2018 10:38:10.096 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/net/cremi/gchupin/espaces/travail/M2/Programmation_Web/apache-tomcat-8.5.34/temp
+15-Oct-2018 10:38:10.096 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+15-Oct-2018 10:38:10.806 INFOS [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Oct-2018 10:38:10.831 INFOS [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+15-Oct-2018 10:38:10.846 INFOS [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+15-Oct-2018 10:38:10.847 INFOS [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+15-Oct-2018 10:38:10.848 INFOS [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1502 ms
+15-Oct-2018 10:38:10.993 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+15-Oct-2018 10:38:10.993 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+15-Oct-2018 10:38:11.140 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/ROOT] de l'application web
+15-Oct-2018 10:38:11.980 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/ROOT] has finished in [838] ms
+15-Oct-2018 10:38:11.980 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/docs] de l'application web
+15-Oct-2018 10:38:12.063 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/docs] has finished in [83] ms
+15-Oct-2018 10:38:12.063 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/examples] de l'application web
+15-Oct-2018 10:38:14.388 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/examples] has finished in [2 325] ms
+15-Oct-2018 10:38:14.388 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/host-manager] de l'application web
+15-Oct-2018 10:38:14.500 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/host-manager] has finished in [112] ms
+15-Oct-2018 10:38:14.500 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/manager] de l'application web
+15-Oct-2018 10:38:14.710 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/manager] has finished in [210] ms
+15-Oct-2018 10:38:14.710 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/hello] de l'application web
+15-Oct-2018 10:38:15.011 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/hello] has finished in [301] ms
+15-Oct-2018 10:38:15.017 INFOS [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Oct-2018 10:38:15.025 INFOS [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+15-Oct-2018 10:38:15.026 INFOS [main] org.apache.catalina.startup.Catalina.start Server startup in 4178 ms
+15-Oct-2018 10:44:15.657 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 10:44:15.717 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 10:45:55.806 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 10:45:55.838 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 10:48:45.976 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 10:48:46.008 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 10:49:36.049 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 10:49:36.080 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 10:49:56.102 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 10:49:56.134 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 10:50:16.155 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 10:50:16.177 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 10:57:06.530 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 10:57:06.564 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:06:10.360 INFOS [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+15-Oct-2018 11:06:10.361 INFOS [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Oct-2018 11:06:10.413 INFOS [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+15-Oct-2018 11:06:10.464 INFOS [main] org.apache.catalina.core.StandardService.stopInternal Arrêt du service [Catalina]
+15-Oct-2018 11:06:10.496 INFOS [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Oct-2018 11:06:10.498 INFOS [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+15-Oct-2018 11:06:10.499 INFOS [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Oct-2018 11:06:10.500 INFOS [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+15-Oct-2018 11:06:14.911 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.34
+15-Oct-2018 11:06:14.912 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 4 2018 22:28:22 UTC
+15-Oct-2018 11:06:14.912 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.34.0
+15-Oct-2018 11:06:14.913 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+15-Oct-2018 11:06:14.913 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            4.9.0-8-amd64
+15-Oct-2018 11:06:14.913 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Oct-2018 11:06:14.913 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/oracle-java8-jdk-amd64/jre
+15-Oct-2018 11:06:14.913 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_162-b12
+15-Oct-2018 11:06:14.913 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Oct-2018 11:06:14.914 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34
+15-Oct-2018 11:06:14.914 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34
+15-Oct-2018 11:06:14.914 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/net/cremi/gchupin/espaces/travail/M2/Programmation_Web/apache-tomcat-8.5.34/conf/logging.properties
+15-Oct-2018 11:06:14.914 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Oct-2018 11:06:14.914 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+15-Oct-2018 11:06:14.914 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Oct-2018 11:06:14.914 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+15-Oct-2018 11:06:14.915 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+15-Oct-2018 11:06:14.915 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/net/cremi/gchupin/espaces/travail/M2/Programmation_Web/apache-tomcat-8.5.34
+15-Oct-2018 11:06:14.915 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/net/cremi/gchupin/espaces/travail/M2/Programmation_Web/apache-tomcat-8.5.34
+15-Oct-2018 11:06:14.915 INFOS [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/net/cremi/gchupin/espaces/travail/M2/Programmation_Web/apache-tomcat-8.5.34/temp
+15-Oct-2018 11:06:14.916 INFOS [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+15-Oct-2018 11:06:15.017 INFOS [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Oct-2018 11:06:15.026 INFOS [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+15-Oct-2018 11:06:15.032 INFOS [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+15-Oct-2018 11:06:15.033 INFOS [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+15-Oct-2018 11:06:15.033 INFOS [main] org.apache.catalina.startup.Catalina.load Initialization processed in 406 ms
+15-Oct-2018 11:06:15.052 INFOS [main] org.apache.catalina.core.StandardService.startInternal Démarrage du service [Catalina]
+15-Oct-2018 11:06:15.052 INFOS [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.34
+15-Oct-2018 11:06:15.060 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/ROOT] de l'application web
+15-Oct-2018 11:06:15.292 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/ROOT] has finished in [231] ms
+15-Oct-2018 11:06:15.293 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/docs] de l'application web
+15-Oct-2018 11:06:15.306 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/docs] has finished in [13] ms
+15-Oct-2018 11:06:15.306 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/examples] de l'application web
+15-Oct-2018 11:06:15.573 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/examples] has finished in [267] ms
+15-Oct-2018 11:06:15.574 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/host-manager] de l'application web
+15-Oct-2018 11:06:15.594 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/host-manager] has finished in [20] ms
+15-Oct-2018 11:06:15.594 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/manager] de l'application web
+15-Oct-2018 11:06:15.612 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/manager] has finished in [18] ms
+15-Oct-2018 11:06:15.613 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Déploiement du répertoire [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/hello] de l'application web
+15-Oct-2018 11:06:15.688 INFOS [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/autofs/netapp/travail/gchupin/M2/Programmation_Web/apache-tomcat-8.5.34/webapps/hello] has finished in [75] ms
+15-Oct-2018 11:06:15.691 INFOS [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Oct-2018 11:06:15.696 INFOS [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+15-Oct-2018 11:06:15.698 INFOS [main] org.apache.catalina.startup.Catalina.start Server startup in 664 ms
+15-Oct-2018 11:07:15.747 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:07:15.793 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:08:45.868 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:08:45.917 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:09:15.949 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:09:15.983 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:09:25.990 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:09:26.017 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:11:56.203 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:11:56.237 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:14:16.364 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:14:16.398 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:14:36.411 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:14:36.436 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:17:36.578 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:17:36.611 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:19:26.706 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:19:26.743 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
+15-Oct-2018 11:20:46.804 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement du contexte [/hello] a démarré
+15-Oct-2018 11:20:46.842 INFOS [ContainerBackgroundProcessor[StandardEngine[Catalina]]] org.apache.catalina.core.StandardContext.reload Le rechargement de ce contexte est terminé
