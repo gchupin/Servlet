@@ -10,7 +10,7 @@ public class ForwardServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html"); 
-        req.getRequestDispatcher("/world").forward(req, resp);//Dispatch la requête sur le servlet world
+        req.getRequestDispatcher("/world").forward(req, resp);//Dispatch la requete sur le servlet world
     }
 
     @Override

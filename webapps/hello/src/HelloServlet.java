@@ -36,12 +36,6 @@ public class HelloServlet extends HttpServlet {
             out.println("La vie de moi t'est tros beau putain");
         else
             out.println ("Hello " + name + " !");
-        String search = req.getParameter("search");
-        if (search.isEmpty())
-            resp.sendRedirect ("https://ecosia.org/");
-        else
-            resp.sendRedirect ("https://ecosia.org/search?q=" + search);
-        resp.setContentType("text/html");
     }
 
     private void printHeaders(HttpServletRequest req, PrintWriter out) {
